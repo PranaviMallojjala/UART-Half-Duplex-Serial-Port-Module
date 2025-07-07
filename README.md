@@ -42,17 +42,6 @@ Thermal stability during continuous transmission
 
 High-speed and glitch-free data transfer validation
 
-**File Structure**
-graphql
-Copy
-Edit
-├── uart_tx.v           # UART Transmitter Module
-├── uart_rx.v           # UART Receiver Module
-├── uart_fsm.v          # FSM Controller for UART
-├── uart_tb.v           # Testbench for Simulation
-├── simulation_results/ # Waveform outputs and reports
-└── README.md           # Documentation
-
 **Tools and Technologies**
 Hardware Description Language: Verilog HDL
 
